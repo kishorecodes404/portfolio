@@ -10,9 +10,9 @@ if (typeof window !== "undefined") {
 
 const EXPERIENCES = [
   {
-    company: "Freelance / Independent",
-    role: "Full Stack Developer",
-    duration: "2026 — Present",
+    company: "Ladera Technology",
+    role: "Digital ans AI-intern",
+    duration: "2026 — August",
     color: "var(--ember)",
     glowColor: "rgba(160, 42, 34, 0.25)",
     description:
