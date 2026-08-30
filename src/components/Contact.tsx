@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 const SOCIAL_LINKS = [
   { label: "GitHub", href: "https://github.com/kishorecodes404/", icon: "https://cdn.simpleicons.org/github/ffffff" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/kishorems2007/", icon: "https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff" },
-  { label: "Twitter / X", href: "https://x.com/Raj57425771", icon: "https://cdn.simpleicons.org/x/ffffff" },
+  { label: "Twitter / X", href: "https://x.com/MS_kishore_", icon: "https://cdn.simpleicons.org/x/ffffff" },
   { label: "Instagram", href: "https://www.instagram.com/kishoree____/?hl=en", icon: "https://cdn.simpleicons.org/instagram/ffffff" },
 ];
 

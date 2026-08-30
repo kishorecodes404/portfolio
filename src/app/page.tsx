@@ -41,7 +41,7 @@ export default function Home() {
           socialItems={[
             { label: "GitHub", link: "https://github.com/kishorecodes404" },
             { label: "LinkedIn", link: "https://www.linkedin.com/in/kishorems2007/" },
-            { label: "Twitter", link: "https://x.com/Raj575771" },
+            { label: "Twitter", link: "https://x.com/MS_Kishore_" },
             { label: "Instagram", link: "https://www.instagram.com/kishoree____/?hl=en" },
           ]}
           displaySocials={true}
