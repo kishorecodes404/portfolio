@@ -11,7 +11,7 @@ if (typeof window !== "undefined") {
 const EXPERIENCES = [
   {
     company: "Ladera Technology",
-    role: "Digital ans AI-intern",
+    role: "Digital and AI-intern",
     duration: "2026 — August",
     color: "var(--ember)",
     glowColor: "rgba(160, 42, 34, 0.25)",
