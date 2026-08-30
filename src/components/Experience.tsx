@@ -24,31 +24,31 @@ const EXPERIENCES = [
     ],
   },
   {
-    company: "Open Source",
-    role: "Contributor & Maintainer",
+    company: "College/Education",
+    role: "AI/ML Student",
     duration: "2026 — Present",
     color: "var(--ember)",
     glowColor: "rgba(160, 42, 34, 0.25)",
     description:
-      "Contributing to the developer ecosystem through open-source projects, libraries, and educational content.",
+      "Currently in my second year of AI/ML, diving deeper into programming, data structures, mathematics, and the fundamentals that make intelligent systems work.",
     highlights: [
-      "Maintained React component libraries",
-      "Published npm packages with 1000+ weekly downloads",
-      "Wrote technical documentation and tutorials",
+      "Data Structures & Applications",
+      "Object-Oriented Programming with C++",
+      "Engineering Mathematics & Computer Fundamentals",
     ],
   },
   {
-    company: "Self-Directed Learning",
-    role: "Creative Technologist",
+    company: "Pre-University",
+    role: "PCMCs Student",
     duration: "2023 — 2025",
     color: "var(--ember)",
     glowColor: "rgba(160, 42, 34, 0.25)",
     description:
-      "Intensive self-education period exploring web technologies, creative coding, and modern development practices.",
+      "Studied Physics, Chemistry, Mathematics, and Computer Science while building my first foundations in programming and software development.",
     highlights: [
-      "Completed 500+ hours of hands-on development",
-      "Mastered React, Node.js, and TypeScript ecosystem",
-      "Built portfolio of 15+ production-ready projects",
+      "Physics, Chemistry, Mathematics & Computer Science",
+      "Learned C++, DSA, OOP, DBMS, and SQL",
+      "Explored the fundamentals of web development",
     ],
   },
 ];
