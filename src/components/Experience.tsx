@@ -18,9 +18,9 @@ const EXPERIENCES = [
     description:
       "Developed Nova, an AI-driven enterprise automation platform combining multi-agent systems, RAG, and intelligent workflow orchestration to automate complex business processes.",
     highlights: [
-      "Delivered 20+ projects across diverse industries",
-      "Implemented CI/CD pipelines and cloud architecture",
-      "Created custom animation systems with GSAP and Three.js",
+      "Built a team of AI agents that work together across different tasks",
+      "Used RAG to give Nova the right context when it needs it",
+      "Automated everyday workflows across emails, meetings, procurement, and task management",
     ],
   },
   {
