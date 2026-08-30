@@ -16,7 +16,7 @@ const EXPERIENCES = [
     color: "var(--ember)",
     glowColor: "rgba(160, 42, 34, 0.25)",
     description:
-      "Building premium web experiences for clients worldwide. Specializing in interactive frontends, scalable backends, and AI-powered applications.",
+      "Developed Nova, an AI-driven enterprise automation platform combining multi-agent systems, RAG, and intelligent workflow orchestration to automate complex business processes.",
     highlights: [
       "Delivered 20+ projects across diverse industries",
       "Implemented CI/CD pipelines and cloud architecture",
