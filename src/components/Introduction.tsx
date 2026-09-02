@@ -31,7 +31,7 @@ export default function Introduction() {
         >
           {/* Eyebrow label */}
           <span className="text-ember text-xs font-semibold tracking-[0.35em] uppercase">
-            The Axiom
+            The Philosophy
           </span>
 
           {/* Main manifesto text */}
