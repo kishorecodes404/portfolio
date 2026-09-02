@@ -411,22 +411,7 @@ export const StaggeredMenu: React.FC<StaggeredMenuProps> = ({
           }
           return arr.map((c, i) => <div key={i} className="sm-prelayer" style={{ background: c }} />);
         })()}
-      </div>
-      <header className="staggered-menu-header" aria-label="Main navigation header">
-        <div className="sm-logo" aria-label="Logo">
-          <a
-            href="#"
-            onClick={(e) => {
-              e.preventDefault();
-              window.scrollTo({ top: 0, behavior: 'smooth' });
-            }}
-            className="text-white font-bold text-xl tracking-tight"
-            style={{ fontFamily: 'var(--font-display)' }}
-          >
-            <span className="text-ember">J</span>M
-            <span className="text-ember">.</span>
-          </a>
-        </div>
+      
         <button
           ref={toggleBtnRef}
           className="sm-toggle"

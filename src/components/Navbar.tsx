@@ -81,18 +81,7 @@ export default function Navbar() {
       >
         <div className="section-container flex items-center justify-between">
           {/* Logo */}
-          <a
-            href="#"
-            className="relative z-10 text-white font-bold text-xl tracking-tight"
-            style={{ fontFamily: "var(--font-poppins), sans-serif" }}
-            onClick={(e) => {
-              e.preventDefault();
-              window.scrollTo({ top: 0, behavior: "smooth" });
-            }}
-          >
-            <span className="text-ember">J</span>M
-            <span className="text-ember">.</span>
-          </a>
+          
 
           {/* Desktop links */}
           <div className="hidden md:flex items-center gap-8">
