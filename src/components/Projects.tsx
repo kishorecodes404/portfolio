@@ -20,7 +20,7 @@ const PROJECTS: Project[] = [
     glowColor: "rgba(212, 163, 115, 0.35)",
     image: "/images/mocha-miso.png",
     githubUrl: "https://github.com/kishorecodes404/NOVA",
-    liveUrl: "https:// ",
+    liveUrl: " https://novaaichatbot.streamlit.app/",
   },
   {
     id: "project-nexus",
