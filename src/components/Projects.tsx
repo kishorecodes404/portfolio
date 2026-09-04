@@ -38,6 +38,7 @@ const PROJECTS: Project[] = [
     glowColor: "rgba(16, 185, 129, 0.35)",
     image: "/images/project-zenith.png",
     githubUrl: "https://github.com/kishorecodes404",
+    liveUrl: "https://veritas-shield-misinfodetector.lovable.app/"
   },
   {
     id: "project-flux",
